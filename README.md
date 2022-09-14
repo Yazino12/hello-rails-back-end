@@ -56,6 +56,10 @@ rails server
 
 Visit http://localhost:3000/ in your browser.
 
+### Front-end repo
+
+- Front-End: [Repo](https://github.com/Yazino12/hello-react-front-end)
+
 ## Author
 
 👤 **Yasin Warsame**
